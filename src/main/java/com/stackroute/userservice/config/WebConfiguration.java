@@ -1,3 +1,4 @@
+/*
 package com.stackroute.userservice.config;
 
 import org.h2.server.web.WebServlet;
@@ -16,3 +17,4 @@ public class WebConfiguration
     }
 
 }
+*/
